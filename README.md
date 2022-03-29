@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=omegaviv)](https://github.com/omegaviv/github-readme-stats)
+![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=omegaviv&show_icons=true&theme=radical) <br /><br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omegaviv&layout=compact)](https://github.com/omegaviv/github-readme-stats)
