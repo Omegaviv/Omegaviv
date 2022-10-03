@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=omegaviv&show_icons=true&theme=radical) <br /><br />
+![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=omegaviv&show_icons=true&theme=radical&count_private=true&include_all_commits=true) <br /><br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omegaviv&layout=compact)](https://github.com/omegaviv/github-readme-stats)
 
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=omegaviv&theme=radical" />
