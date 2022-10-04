@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=omegaviv&theme=radical" />
 
-[Get My Resume](https://drive.google.com/drive/u/2/folders/1jagkloFA-uzbB7pwiEM-vypTCbHfcTaS)
+[Get My Resume](https://drive.google.com/file/d/1txIFEjKXl8KChNUdsyZXD5VKMPgaAwvc/view?usp=sharing)
